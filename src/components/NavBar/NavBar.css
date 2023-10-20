@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    background-color: brown;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu {
+    display: flex;
+    gap: 10px;
+}
